@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "companyname": "001",
+      "ownername": "City A",
+      "rollno": "City B",
+      "owneremail": "10:00 AM",
+      "accesscode": "12:00 PM"
+      
+    },
+    {
+      "id": 2,
+      "companyname": "002",
+      "ownername": "City B",
+      "rollno": "City C",
+      "owneremail": "2:00 PM",
+      "accesscode": "4:00 PM"
+    },
+    {
+      "id": 3,
+      "companyname": "003",
+      "ownername": "City C",
+      "rollno": "City D",
+      "owneremail": "6:00 PM",
+      "accesscode": "8:00 PM"      
+    }
+  ]
